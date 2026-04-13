@@ -12,6 +12,8 @@ FERIAS: List[Ferias] = [
     Ferias("Recesso Set/2025", date(2025, 9, 13), date(2025, 10, 5)),
     Ferias("Férias Fim de Ano 2025", date(2025, 12, 20), date(2026, 1, 11)),
     Ferias("Recesso Mar/2026", date(2026, 2, 28), date(2026, 3, 22)),
+    Ferias("Recesso Jul/Ago 2026", date(2026, 7, 25), date(2026, 8, 16)),
+    Ferias("Recesso de Final de Ano 2026", date(2026, 12, 19), date(2026, 12, 31)),
 ]
 
 # --- AUTENTICAÇÃO TWITTER ---
